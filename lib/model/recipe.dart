@@ -1,0 +1,3 @@
+class RecipeItem {
+  String desciption;
+}
